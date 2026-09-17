@@ -1,1 +1,121 @@
+# --- https://paileactivist.github.io/toolz/adblock.html
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
+ads.facebook.com
+advertising.twitter.com
+widgets.pinterest.com
+metrics1.data.hicloud.com
+metrics5.data.hicloud.com
 
+# --- Yandex Ads & Analytics ---
+an.yandex.ru
+mc.yandex.ru
+adfox.ru
+adfox.yandex.ru
+yandexadexchange.net
+appmetrica.yandex.ru
+appmetrica.yandex.com
+yandexadserv.net
+dsp.yandex.ru
+
+# --- Facebook / Meta Tracking (Apps bleiben funktionsfähig) ---
+# graph.facebook.com bleibt auskommentiert für App-Funktionen (Login/Content)
+# graph.facebook.com
+connect.facebook.net
+connect.facebook.com
+pixel.facebook.com
+an.facebook.com
+tr.facebook.com
+
+# --- Google AdMob, Mobile Ads & Analytics ---
+googleads.g.doubleclick.net
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+adservice.google.com
+ad.doubleclick.net
+ads.google.com
+mobileads.google.com
+stats.g.doubleclick.net
+google-analytics.com
+ssl.google-analytics.com
+app-measurement.com
+googleads4.g.doubleclick.net
+partner.googleadservices.com
+adclick.g.doubleclick.net
+pagead2.googleadservices.com
+
+# --- Huawei / HiCloud Tracking ---
+logservice.hicloud.com
+logservice1.hicloud.com
+grs.hicloud.com
+
+# --- MS Telemetry ---
+telemetry.microsoft.com
+vortex.data.microsoft.com
+settings.data.microsoft.com
+watson.telemetry.microsoft.com
+oca.telemetry.microsoft.com
+smartscreen.microsoft.com
+apps.skype.com
+vortex-win.data.microsoft.com
+telecommand.telemetry.microsoft.com
+watson.ppe.telemetry.microsoft.com
+reports.wes.df.telemetry.microsoft.com
+wes.df.telemetry.microsoft.com
+sqm.telemetry.microsoft.com
+sqm.df.telemetry.microsoft.com
+vortex-sandbox.data.microsoft.com
+settings-sandbox.data.microsoft.com
+oca.telemetry.microsoft.com.nsatc.net
+feedback.microsoft.com
+feedback.windows.com
+feedback.search.microsoft.com
+df.telemetry.microsoft.com
+eu.vortex.data.microsoft.com
+settings-win.data.microsoft.com
+vortex.data.microsoft.com.nsatc.net
+vortex-sandbox.data.microsoft.com.nsatc.net
+watson.telemetry.microsoft.com.nsatc.net
+telemetry.microsoft.com.nsatc.net
+sqm.telemetry.microsoft.com.nsatc.net
+vortex-win.data.microsoft.com.nsatc.net
+
+# Tracking / Analytics
+s.clarity.ms
+app.posthog.com
+eu.posthog.com
+o0.ingest.sentry.io
+cdn.lr-ingest.com
+r.lr-ingest.com
+pixel.quora.com
+qevents.quora.com
+ngfts.lge.com
+click.mailchimp.com
+customer.io
+clientstream.launchdarkly.com
+
+# Ads
+ads.microsoft.com
+cdn.kargo.com
+sync.kargo.com
+dai.google.com
+api.partnerstack.com
+t.pepperjamnetwork.com
+redirector.skimresources.com
+ads.x.com
+
+# Consent / CMP
+consent.cookiebot.com
+consentcdn.cookiebot.com
+privacyportal.onetrust.com
+consent.trustarc.com
+sdk.privacy-center.org
+cdn.privacy-mgmt.com
+app.usercentrics.eu
+cmp.osano.com
+
+# Scam / Redirect
+sweepquest.shop
+*.sweepquest.shop
