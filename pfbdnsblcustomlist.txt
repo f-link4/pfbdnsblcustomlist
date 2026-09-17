@@ -19,8 +19,7 @@ appmetrica.yandex.com
 yandexadserv.net
 dsp.yandex.ru
 
-# --- Facebook / Meta Tracking (Apps bleiben funktionsfähig) ---
-# graph.facebook.com bleibt auskommentiert für App-Funktionen (Login/Content)
+# --- Facebook / Meta Tracking ---
 # graph.facebook.com
 connect.facebook.net
 connect.facebook.com
